@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 <p align="left">
-  <img alt="" width="400" src="https://c.tenor.com/dkbYAx_P-twAAAAC/symphogear-xv.gif">
+  <img alt="" width="400" src="https://c.tenor.com/_QoCVxy3CsoAAAAC/symphogear-senki-zesshou-symphogear.gif">
 </p>
 
 <h2>owo</h2>
