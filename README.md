@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/yukine-chris-symphogear-senki-zesshou-symphogear-best-girl-rick-roll-gif-21118709">
+<img align="right" alt="" width="400" src="https://c.tenor.com/P7dpNL2w1vcAAAAC/yukine-chris-symphogear.gif">
 
 <h2>owo</h2>
 <p align="left"> 
