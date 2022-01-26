@@ -1,5 +1,7 @@
 <h1>Hi there 👋</h1>
-<img　alt="" width="400" src="https://c.tenor.com/P7dpNL2w1vcAAAAC/yukine-chris-symphogear.gif">
+<p>
+  <img　alt="" width="400" src="https://c.tenor.com/P7dpNL2w1vcAAAAC/yukine-chris-symphogear.gif">
+</p>
 
 <h2>owo</h2>
 <p align="left"> 
