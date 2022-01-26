@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 <p align="left">
-  <img alt="" width="400" src="https://c.tenor.com/P7dpNL2w1vcAAAAC/yukine-chris-symphogear.gif">
+  <img alt="" width="400" src="https://c.tenor.com/dkbYAx_P-twAAAAC/symphogear-xv.gif">
 </p>
 
 <h2>owo</h2>
