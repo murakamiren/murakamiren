@@ -1,4 +1,4 @@
-<h1>Hi 👋</h1>
+<h1>👋</h1>
 <p align="left">
   <img alt="" width="400" src="https://c.tenor.com/_QoCVxy3CsoAAAAC/symphogear-senki-zesshou-symphogear.gif">
 </p>
