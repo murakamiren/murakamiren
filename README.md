@@ -1,7 +1,4 @@
 <h1>hi 👋</h1>
-<p align="left">
-  <img alt="" width="400" src="https://c.tenor.com/_QoCVxy3CsoAAAAC/symphogear-senki-zesshou-symphogear.gif">
-</p>
 
 <h2>uwu</h2>
 <p align="left"> 
