@@ -1,4 +1,4 @@
-<h1>hi 👋</h1>
+<h1>hi </h1>
 
 <h2>uwu</h2>
 <p align="left"> 
