@@ -7,4 +7,5 @@
 </p>
 
 <h2>🤩<h2>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nevzboi)
+ 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=nevzboi)
